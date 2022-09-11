@@ -16,4 +16,4 @@ My research interest are strategic human capital and labor economics. One strand
 
 You can [download my CV here](http://academicpages.github.io/files/CV_XingjianZhang.pdf). 
 
-Contact me: [xingjian.zhang@sciencespo.fr]("xingjian.zhang@sciencespo.fr")
+Contact: [xingjian.zhang@sciencespo.fr]("xingjian.zhang@sciencespo.fr")
