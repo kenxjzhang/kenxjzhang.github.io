@@ -83,8 +83,8 @@ author:
   name             : "Xingjian Zhang"
   avatar           : "profile.png"
   bio              : "Hi! I am Xingjian. I obtain my master degree in economics at SciencesPo Paris. I am interest in strategic human capital, human resources management and labor economics."
-  location         : "Paris, France"
-  email            : xingjian.zhang@sciencespo.fr
+  location         : 
+  email            : "xingjian.zhang@sciencespo.fr"
   employer         :
   pubmed           : 
   googlescholar    :
