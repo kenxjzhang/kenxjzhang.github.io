@@ -15,3 +15,5 @@ I am a Pre-Doctoral fellow in Management at HEC Paris, working with Prof. [Feder
 My research interest are strategic human capital and labor economics. One strand of my research interest is how firms achieve competitive advantages from human capital management. Another strand explores the discrimination and social consequences of job change in the labor market.
 
 You can [download my CV here](http://academicpages.github.io/files/CV_XingjianZhang.pdf). 
+
+My email address is [xingjian.zhang@sciencespo.fr]("xingjian.zhang@sciencespo.fr").
