@@ -8,6 +8,5 @@ venue: ''
 paperurl: ''
 ---
 # Working Paper
-**Anatomy of the Wage Gap between Local and Migrant Workers in Urban China: New Evidence from Matched Data**, with Shu Cai
-
+**Anatomy of the Wage Gap between Local and Migrant Workers in Urban China: New Evidence from Matched Data**, with Shu Cai  
 [Download the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3933758)
