@@ -21,7 +21,7 @@ Contact: <xingjian.zhang@sciencespo.fr>
 # Working Paper
 ["Anatomy of the Wage Gap between Local and Migrant Workers in Urban China: New Evidence from Matched Data."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3933758), with [Shu Cai](http://www.caishu.org/). Revise & Resubmit, China Economic Review
 
-# Work in Progress
+# Works in Progress
 
 Does Firm Outsource Risk in Workplace? Evidence from France, with [Federica de Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica) and [Roxana Barbulescu](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/barbulescu-roxana)
 
