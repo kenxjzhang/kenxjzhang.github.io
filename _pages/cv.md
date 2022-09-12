@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can [download my CV here](http://xingjianecon.github.io/files/CV_XingjianZhang.pdf). 
 
 
