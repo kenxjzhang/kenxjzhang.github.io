@@ -20,4 +20,4 @@ Contact: <xingjian.zhang@sciencespo.fr>
 
 # Working paper
 
-[Cai, Shu and Xingjian Zhang.(2021)  "Anatomy of the Wage Gap between Local and Migrant Workers in Urban China: New Evidence from Matched Data."]("https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3933758"), Revise & Resubmit, China Economic Review
+[Cai, Shu and Xingjian Zhang.(2021)  "Anatomy of the Wage Gap between Local and Migrant Workers in Urban China: New Evidence from Matched Data."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3933758), Revise & Resubmit, China Economic Review
