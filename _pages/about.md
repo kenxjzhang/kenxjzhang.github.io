@@ -18,6 +18,13 @@ You can [download my CV here](http://xingjianecon.github.io/files/CV_XingjianZha
 
 Contact: <xingjian.zhang@sciencespo.fr>
 
-# Working paper
+# Working Paper
 
 Cai, Shu and Xingjian Zhang.(2021)  ["Anatomy of the Wage Gap between Local and Migrant Workers in Urban China: New Evidence from Matched Data."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3933758), Revise & Resubmit, China Economic Review
+
+# Work in Progress
+
+**Does Firm Outsource Risk in Workplace? Evidence from France**, with Federica de Stefano and Roxana Barbulescu
+
+**Family Responsibility, Job Searching and Gender Commute Gap**
+
