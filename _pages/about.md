@@ -24,7 +24,7 @@ Cai, Shu and Xingjian Zhang.(2021)  ["Anatomy of the Wage Gap between Local and 
 
 # Work in Progress
 
-**Does Firm Outsource Risk in Workplace? Evidence from France**, with Federica de Stefano and Roxana Barbulescu
+**Does Firm Outsource Risk in Workplace? Evidence from France**, with [Federica de Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica) and [Roxana Barbulescu](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/barbulescu-roxana)
 
 **The Impact of Civil Conflict on Domestic Violence: Evidence from 2007-2008 Kenyan Crisis**
 
