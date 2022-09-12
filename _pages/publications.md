@@ -5,12 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Working Paper
+**Anatomy of the Wage Gap between Local and Migrant Workers in Urban China: New Evidence from Matched Data**, with Shu Cai. Revise and Resubmit, China Economic Review.
