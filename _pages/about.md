@@ -27,5 +27,5 @@ Does Firm Outsource Risk in Workplace? Evidence from France, with [Federica de S
 
 The Impact of Civil Conflict on Domestic Violence: Evidence from 2007-2008 Kenyan Crisis
 
-Family Responsibility, Job Searching and Gender Commute Gap
+Family Responsibility, Job Search and Gender Commute Gap
 
