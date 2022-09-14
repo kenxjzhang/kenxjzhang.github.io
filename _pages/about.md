@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome to my website!
 
-I am a Pre-Doctoral Fellow in Management at HEC Paris, working with [Prof. Federica de Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica). I obtained my Master in Economics degree at SciencesPo Paris in 2022. 
+I am a Pre-Doctoral Fellow in Management at HEC Paris, working with [Prof. Federica de Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica). I obtained my Master in Economics degree from SciencesPo Paris in 2022. 
 
-My research interests are strategic human capital and labor economics. One strand of my research interests is how firms achieve competitive advantages from human capital management, such as redeploying employees and outsourcing tasks. Another strand studies the job searching, discrimination and wage gap on the labor market, especially topics on gender and migrants.
+One strand of my research interests is how firms gain competitive advantages from human capital management, for example by redeploying employees or outsourcing tasks. Another strand focuses on job search, discrimination, and wage gaps on the labor market, particularly topics related to migration and gender.
 
 You can [download my CV here](http://xingjianecon.github.io/files/CV_XingjianZhang.pdf)
 
