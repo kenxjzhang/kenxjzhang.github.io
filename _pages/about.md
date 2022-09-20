@@ -25,7 +25,7 @@ Contact: <xingjian.zhang@sciencespo.fr>
 
 Does Firm Outsource Risk in Workplace? Evidence from France, with [Federica de Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica) and [Roxana Barbulescu](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/barbulescu-roxana)
 
-The Impact of Civil Conflict on Domestic Violence: Evidence from 2007-2008 Kenyan Crisis
+Social Conflict, Domestic Violence and Women's Labor Market Participation
 
 Family Responsibility, Job Search and Gender Commute Gap (with Tianlin Hu)
 
