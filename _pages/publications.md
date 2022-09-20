@@ -16,4 +16,4 @@ Does Firm Outsource Risk in Workplace? Evidence from France, with [Federica de S
 
 Social Conflict, Domestic Violence and Women's Labor Market Participation
 
-Family Responsibility, Job Search and Gender Commute Gap (with Tianlin Hu)
+Job Search, Family Responsibility and Gender Commute Gap (with Tianlin Hu)
