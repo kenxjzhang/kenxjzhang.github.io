@@ -12,7 +12,7 @@ author_profile: true
 
 # Works in Progress
 
-Does Firm Outsource Risk in Workplace? Evidence from France, with [Federica de Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica) and [Roxana Barbulescu](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/barbulescu-roxana)
+Does Firm Outsource Risk in Workplace? Evidence from France (with [Federica de Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica) and [Roxana Barbulescu](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/barbulescu-roxana))
 
 Social Conflict, Domestic Violence and Women's Labor Market Participation
 
