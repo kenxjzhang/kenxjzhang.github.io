@@ -14,7 +14,7 @@ author_profile: true
 
 What Drives Employee Safety at Work? Evidence from France (with [Federica de Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica) and [Roxana Barbulescu](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/barbulescu-roxana))
 
-Social Conflict, Domestic Violence and Women's Labor Market Participation
+The Impact of Civil Conflict on Women's Labor Market Participation: Evidence from Kenya
 
 Family Responsibility, Job Search and Gender Commute Gap (with Tianlin Hu)
 
