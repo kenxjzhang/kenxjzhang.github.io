@@ -27,5 +27,5 @@ What Drives Employee Safety at Work? Evidence from France  (with [Federica de St
 
 The Impact of Civil Conflict on Domestic Violence: Evidence from Kenya
 
-Family Responsibility, Job Search and Gender Commute Gap (with [Kerstin Holzheu](https://www.sciencespo.fr/department-economics/researcher/kerstin-holzheu.html) and Tianlin Hu)
+Family Responsibility and Gender Commute Gap (with [Kerstin Holzheu](https://www.sciencespo.fr/department-economics/researcher/kerstin-holzheu.html) and Tianlin Hu)
 
