@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a Pre-Doctoral Fellow in Management at HEC Paris, working with [Prof. Federica de Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica). I obtained my Master in Economics degree from SciencesPo Paris in 2022. 
+I am a Pre-Doctoral Fellow in Management at HEC Paris, working with [Prof. Federica de Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica). I obtained my Master in Economics degree from Sciences Po Paris in 2022. 
 
 I am interested in strategic human capital, human resources management and labor economics. One strand of my research interests is how firms develop and sustain competitive advantages from human capital management, for example by training and redeploying employees. Another strand focuses on discrimination and wage gaps on the labor market, particularly topics related to migration and gender.
 
