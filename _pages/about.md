@@ -20,8 +20,7 @@ Contact: <xingjian.zhang@sciencespo.fr>
 
 # Working Paper
 ["Anatomy of the Wage Gap between Local and Migrant Workers in Urban China."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3933758), with [Shu Cai](http://www.caishu.org/).  
-Revised & Resubmitted, _China Economic Review_
-
+**Revised & Resubmitted, _China Economic Review_**
 # Works in Progress
 
 What Drives Employee Safety at Work? Evidence from France  (with [Federica De Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica) and [Roxana Barbulescu](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/barbulescu-roxana))
