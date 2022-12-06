@@ -23,8 +23,6 @@ Contact: <xingjian.zhang@sciencespo.fr>
 Revised & Resubmitted, _China Economic Review_
 # Works in Progress
 
-What Drives Employee Safety at Work? Evidence from France  (with [Federica De Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica) and [Roxana Barbulescu](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/barbulescu-roxana))
-
 The Impact of Civil Conflict on Domestic Violence: Evidence from Kenya
 
 Labor Market and Gender Commute Gap (with [Kerstin Holzheu](https://www.sciencespo.fr/department-economics/researcher/kerstin-holzheu.html) and Tianlin Hu)
