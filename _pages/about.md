@@ -22,7 +22,6 @@ Contact: <xingjian.zhang@sciencespo.fr>
 ["Anatomy of the Wage Gap between Local and Migrant Workers in Urban China."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3933758), with [Shu Cai](http://www.caishu.org/).  
 Revised & Resubmitted, _China Economic Review_
 # Works in Progress
-
 The Impact of Civil Conflict on Domestic Violence: Evidence from Kenya
 
 Labor Market and Gender Commute Gap (with [Kerstin Holzheu](https://www.sciencespo.fr/department-economics/researcher/kerstin-holzheu.html) and Tianlin Hu)
