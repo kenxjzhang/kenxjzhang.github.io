@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 # CV
-You can [download my CV here](http://xingjianecon.github.io/files/CV_XingjianZhang.pdf). 
+You can [download my CV here](http://zhang-xingjian.github.io/files/CV_XingjianZhang.pdf). 
 
 
