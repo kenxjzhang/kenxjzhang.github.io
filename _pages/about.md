@@ -14,7 +14,7 @@ I am a Pre-Doctoral Fellow in Management at HEC Paris, working with [Prof. Feder
 
 I am interested in strategic human capital, human resources management and labor economics. One strand of my research interests is how firms develop and sustain competitive advantages from human capital management, for example by training and redeploying employees. Another strand focuses on how organizational performance is affected by social factors, such as inequality and discrimination.
 
-You can [download my CV here](http://xingjianecon.github.io/files/CV_XingjianZhang.pdf)
+You can [download my CV here](http://zhang-xingjian.github.io/files/CV_XingjianZhang.pdf)
 
 Contact: <xingjian.zhang@sciencespo.fr>
 
