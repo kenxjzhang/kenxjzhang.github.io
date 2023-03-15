@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am Xingjian Zhang, a Ph.D student in Strategic Management at the [Rotman School of Management, University of Toronto](https://www.rotman.utoronto.ca/Degrees/PhD/Academics/MajorAreasofStudy/StrategicManagement). Before entering the Ph.D program, I was a Pre-Doctoral Fellow in Management at HEC Paris, working with [Prof. Federica De Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica). I obtained my M.A in Economics from Sciences Po Paris and B.A in Economics from Guangdong University of Foregin Studies. 
+I am Xingjian Zhang, a Ph.D student in Strategic Management at the [Rotman School of Management, University of Toronto](https://www.rotman.utoronto.ca/Degrees/PhD/Academics/MajorAreasofStudy/StrategicManagement). Before entering the Ph.D program, I was a Pre-Doctoral Fellow in Management at HEC Paris, working with [Prof. Federica De Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica). I obtained my M.A in Economics from Sciences Po in France and B.A in Economics from Guangdong University of Foregin Studies in China. 
 
 I am interested in strategic human capital, human resources management and labor economics. One strand of my research interests is how firms develop and sustain competitive advantages from human capital management, for example by training and redeploying employees. Another strand focuses on how organizational performance is affected by social factors, such as inequality and discrimination.
 
