@@ -10,8 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a Pre-Doctoral Fellow in Management at HEC Paris, working with [Prof. Federica De Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica) and [Prof. Roxana Barbulescu](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/barbulescu-roxana). I obtained my Master in Economics degree from Sciences Po Paris in 2022. 
-
+I am a Ph.D student in Strategic Management at U of Toronto, Rotman School of Management. Before entering the Ph.D program, I was a Pre-Doctoral Fellow in Management at HEC Paris, working with [Prof. Federica De Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica). I obtained my Master in Economics degree from Sciences Po Paris in 2022. 
 I am interested in strategic human capital, human resources management and labor economics. One strand of my research interests is how firms develop and sustain competitive advantages from human capital management, for example by training and redeploying employees. Another strand focuses on how organizational performance is affected by social factors, such as inequality and discrimination.
 
 You can [download my CV here](http://zhang-xingjian.github.io/files/CV_XingjianZhang.pdf)
