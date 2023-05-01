@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kenneth X. Zhang"
 title_separator          : "-"
-name                     : &name "Xingjian Zhang"
+name                     : &name "Kenneth X. Zhang"
 description              : &description "personal description"
 url                      : https://zhang-xingjian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
