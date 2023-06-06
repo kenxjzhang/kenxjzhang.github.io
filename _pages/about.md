@@ -20,4 +20,4 @@ Contact: <xingjian.zhang@sciencespo.fr>
 
 # Working Paper
 ["Anatomy of the Wage Gap between Local and Migrant Workers in Urban China."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3933758), with [Shu Cai](http://www.caishu.org/).  
-Revised & Resubmitted, _China Economic Review_
+Under Review, World Development_
