@@ -16,7 +16,7 @@ I am interested in strategic human capital, human resources management and labor
 
 You can [download my CV here](http://kenxjzhang.github.io/files/CV_XingjianZhang.pdf)
 
-Contact: <xingjian.zhang@sciencespo.fr>
+Contact: <kenxj.zhang@rotman.utoronto.ca>
 
 # Working Paper
 ["Anatomy of the Wage Gap between Local and Migrant Workers in Urban China."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3933758), with [Shu Cai](http://www.caishu.org/).  
