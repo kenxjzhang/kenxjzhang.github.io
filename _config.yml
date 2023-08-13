@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ken X. Zhang"
+title                    : "Ken (Xingjian) Zhang"
 title_separator          : "-"
-name                     : &name "Ken X. Zhang"
+name                     : &name "Ken (Xingjian) Zhang"
 description              : &description "personal description"
 url                      : https://www.kenxjzhang.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
