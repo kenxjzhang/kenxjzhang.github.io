@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ken (Xingjian) Zhang"
+title                    : "Xingjian Zhang"
 title_separator          : "-"
-name                     : &name "Ken (Xingjian) Zhang"
+name                     : &name "Xingjian Zhang"
 description              : &description "personal description"
 url                      : https://www.kenxjzhang.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ken (Xingjian) Zhang"
+  name             : "Xingjian Zhang"
   avatar           : "profile.jpg"
-  bio              : "Hi! I am Ken, a Ph.D. student in Strategic Management at the Rotman School of Management, University of Toronto."
+  bio              : "Hi! I am Xingjian, a Ph.D. student in Strategic Management at the Rotman School of Management, University of Toronto."
   location         : 
   email            : "kenxj.zhang@rotman.utoronto.ca"
   employer         :
