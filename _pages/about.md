@@ -10,14 +10,9 @@ redirect_from:
 
 Welcome to my website!
 
-I am Ken (Xingjian) Zhang, a Ph.D. student in Strategic Management at the [Rotman School of Management, University of Toronto](https://www.rotman.utoronto.ca/Degrees/PhD/Academics/MajorAreasofStudy/StrategicManagement). Before entering the Ph.D. program, I was a Pre-Doctoral Fellow in Management at HEC Paris, working with [Prof. Federica De Stefano](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/destefano-federica). I obtained my M.A. in Economics from Sciences Po and B.A. in Economics from Guangdong University of Foreign Studies.
+I am Xingjian Zhang, a Ph.D. student in Strategic Management at the [Rotman School of Management, University of Toronto](https://www.rotman.utoronto.ca/Degrees/PhD/Academics/MajorAreasofStudy/StrategicManagement). My advisor is Prof. [András Tilcsik](https://discover.research.utoronto.ca/15150-andr%C3%A1s-tilcsik)
 
-I am interested in strategic human capital, human resources management and labor economics. One strand of my research interests is how firms develop and sustain competitive advantages from human capital management, for example by training and redeploying employees. Another strand focuses on how organizational performance is affected by social factors, such as inequality and discrimination in the workplace.
 
 You can [download my CV here](http://kenxjzhang.github.io/files/CV_XingjianZhang.pdf)
 
 Contact: <kenxj.zhang@rotman.utoronto.ca>
-
-# Working Paper
-["Anatomy of the Wage Gap between Local and Migrant Workers in Urban China."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3933758), with [Shu Cai](http://www.caishu.org/).  
-Under Review, _World Development_
