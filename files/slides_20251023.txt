@@ -1,0 +1,275 @@
+# METADATA:
+Title: New Presentation
+Theme: bringhurst
+ShowSlideCount: true
+LogoUrl: 
+
+# Slide(1):
+
+Title: Pulling back the curtain:
+AI Disclosure and Consumer Trust 
+Text: ||| Ken Xingjian Zhang |||
+||| October 24, 2025 |||
+
+# Slide(2):
+
+Text: 
+<<< Generative AI is reshaping the boundary between human and machine contribution to work. <<<
+ㅤ
+
+Text: 
+<<< Organizations and professionals have incorporated AI to improve productivity, but this has also raised concerns:
+ㅤ• Deloitte delivered a government report using AI that contained errors
+ㅤ• Academic papers that forgot to remove AI prompts
+ㅤ• Attorneys used fabricated legal cases in pleadings <<<
+
+# Slide(3):
+
+Text: <<< One solution is to require producers to disclose their AI use.<<<
+ㅤ
+Text: 
+Many regulators—governments and platforms among them—have mandated AI disclosure policies. 
+ㅤ• Canada Securities Administrators
+ㅤ• Health care industry in Texas
+ㅤ• Kickstarter
+ㅤ• Steam 
+ㅤ• Sage and Wiley
+
+# Slide(4):
+
+Text: 
+**Sage Journals:**
+Artificial intelligence policy
+"The use of AI tools that can produce content such as generating references, text, images or any other form of content must be disclosed when used by authors or reviewers ... If your submission was primarily or partially generated using AI, this must be disclosed upon submission so the Editorial team can evaluate the content generated. "
+
+# Slide(5):
+
+Title: Research Question
+Text: 
+How does AI disclosure influence consumer evaluation of a product?
+
+# Slide(6):
+
+Text: 
+Contradictory Evidence on AI Disclosure:
+Columns: 
+**Algorithm Aversion**
+People react negatively to products and advice provided or assisted by AI, even when they perform better than humans.
+(Dietvorst et al., 2015; Castelo et al., 2019; Stradi and Verdickt, 2025)
+---
+**Algorithm Appreciation**
+People prefer algorithmic to human judgment and they adhere more to advice when they know it is from an algorithm. 
+(Logg et al., 2019; You et al., 2022; Merkle, 2025)
+
+# Slide(7):
+
+Text: 
+Text:
+<<<Limitations of existing studies:<<<
+<<<ㅤ1) Binary 'AI product' versus 'Non-AI product' <<<
+<<<ㅤ2) Overly salient source information  <<<
+<<<ㅤ3) Non-incentivized behavior<<<
+<<<ㅤ4) Source attribution 'assigned' instead of 'disclosed' <<<
+
+# Slide(8):
+
+Title: Study Design
+
+# Slide(9):
+
+Text: I conducted two online experiments on Prolific (N = 1,350 and N = 1,200) to examine consumer trust in equity research reports under different AI disclosure conditions.
+
+# Slide(10):
+
+Text: 
+**Participants:**
+1. US residents
+2. completed a BA or higher
+3. employed
+4. had investment experience ("Have you ever made investments (either personal or through your employment) in the common stock or shares of a company?")
+5. Stock market investment experience ("Have you invested in any of the following types of investment in the past?"  -- YES for "Stock Market")
+
+# Slide(11):
+
+Text: 
+<<<**Study flow for participants:**<<<
+<<< 1) read an equity research report about three real, listed companies. <<<
+<<< 2) invest in one of the three companies. <<<
+<<< 3) answer additional questions for mechanisms and demographics. <<<
+ㅤ
+Text: Participants received a monetary bonus if they invested in the company with the highest return in the last six months.
+
+# Slide(12):
+
+Text: 
+<<< **Report:** <<<
+<<< 1) Information (business overview, financial fundamentals) <<<
+<<< 2) Analysis (trends and comparisons) <<<
+<<< 3) Recommendation (one of the three companies) <<<
+ㅤ
+Text: At the end of the report, I included a Generative AI Disclosure section—the main study manipulation.
+
+# Slide(13):
+
+FullScreenWebsite: https://kenxjzhang.github.io/images/20251024/report.html
+
+# Slide(14):
+
+Text: 
+<<< **Manipulation**: nine conditions (2×2×2+1) <<< 
+<<< Gathering information (Yes or No) 
+× Conducting analysis (Yes or No) 
+× Formulating recommendation (Yes or No) <<<
+<<< + No AI Disclosure section <<<
+ㅤ
+<<<N = 150 participants per condition. N = 1,350 in total.<<<
+
+# Slide(15):
+
+FullScreenWebsite: https://kenxjzhang.github.io/images/20251024/report2.html
+
+# Slide(16):
+
+Text: 
+<<<**Dependent variable:**
+Proportion of participants who followed the report's recommendation<<<
+
+# Slide(17):
+
+FullScreenImage:  https://kenxjzhang.github.io/images/20251024/figure1.png
+
+# Slide(18):
+
+Text: 
+<<<**Two main findings: **
+1) Disclosure penalty in following recommendation
+2) The exception of "Yes-Yes-Yes" in disclosure penalty<<<
+
+# Slide(19):
+
+Text: 
+**Robustness:**
+a) No evidence for "more-is-better"
+b) No evidence for different effects across information, analysis, and recommendation
+c) Controlled for demographic variables
+d) No heterogeneity across frequency of AI use
+
+# Slide(20):
+
+Title: 
+What are the mechanisms? 
+Text:
+<<<I examined whether participants had different perceived report quality:
+a) Originality and novelty
+b) Accountability
+c) Transparency
+d) Reliability<<<
+ㅤ
+Text:
+<<< I did not find significant differences in perceived report quality. <<<
+
+# Slide(21):
+
+Title: Study 2 Design
+
+# Slide(22):
+
+Text: 
+<<<Study 2 has identical materials and main investment tasks to Study 1, but with new mechanism questions.<<<
+
+<<<**Manipulation:** four conditions
+1) No AI Disclosure
+2) No-AI ("No-No-No")
+3) Partial-AI (one or two tasks with AI)
+4) Full-AI ("Yes-Yes-Yes")<<<
+
+# Slide(23):
+
+FullScreenImage:  https://kenxjzhang.github.io/images/20251024/figure2.png
+
+# Slide(24):
+
+Title: What are the mechanisms?
+Text:
+I examined three mechanisms:
+a) A shift in focus to the process of preparing the report
+b) Skepticism about disclosure truthfulness
+c) Lower trustworthiness toward the analyst and firm
+
+# Slide(25):
+
+Text: 
+"While making your decision, to what extent did you focus on the following?" 
+ㅤ• The process used to create the report
+ㅤ• The performance and prospects of each company
+ㅤ
+1 to 7 Likert-style scale
+
+# Slide(26):
+
+FullScreenImage:  https://kenxjzhang.github.io/images/20251024/figure3.png
+
+# Slide(27):
+
+Text: 
+One potential limitation of previous studies is "reveal" instead of "disclose".
+ㅤ
+Revelation by a researcher leaves no room for skepticism, but self-disclosure can raise truthfulness concerns.
+ㅤ
+
+# Slide(28):
+
+Text:"While reading the report, to what extent did you feel the Generative AI Disclosure was a truthful description of how AI was actually used?" 
+ㅤ
+ 1 to 7 Likert-style scale
+
+# Slide(29):
+
+FullScreenImage:  https://kenxjzhang.github.io/images/20251024/figure4.png
+
+# Slide(30):
+
+FullScreenImage:  https://kenxjzhang.github.io/images/20251024/figure5.png
+
+# Slide(31):
+
+Text: 
+I measured the trustworthiness by three components (Mayer, 1995):
+a) ability
+b) benevolence
+c) integrity
+ㅤ
+Each component is measured by three items and I took the average scores.
+
+# Slide(32):
+
+FullScreenImage:  https://kenxjzhang.github.io/images/20251024/figure6.png
+
+# Slide(33):
+
+FullScreenImage:  https://kenxjzhang.github.io/images/20251024/figure7.png
+
+# Slide(34):
+
+FullScreenImage:  https://kenxjzhang.github.io/images/20251024/figure8.png
+
+# Slide(35):
+
+Title: Conclusion
+
+# Slide(36):
+
+Text: 
+Two experiments examined how AI disclosure changed the proportion of participants following recommendations in equity research reports.
+ㅤ
+Results showed that:
+a) a disclosure penalty in following the recommendation in most disclosure conditions
+b) Full AI Use disclosure was an exception to the disclosure penalty
+
+# Slide(37):
+
+Text: 
+I found evidence that 
+a) disclosure shifted participants' attention to the preparation process.
+b) There were different skepticism levels across disclosure conditions.
+c) A disclosure penalty in trustworthiness among the actors producing the report.
