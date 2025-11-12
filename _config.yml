@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ken Xingjian Zhang"
+title                    : "Xingjian Zhang"
 title_separator          : "-"
 name                     : &name "Xingjian Zhang"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ken Xingjian Zhang"
+  name             : "Xingjian Zhang"
   avatar           : "profile.jpg"
-  bio              : "Hi! I am Ken, a Ph.D. student in Strategic Management at the Rotman School of Management, University of Toronto."
+  bio              : "Hi! I am Xingjian, a Ph.D. student in Strategic Management at the Rotman School of Management, University of Toronto."
   location         : 
   email            : "kenxj.zhang@rotman.utoronto.ca"
   employer         :
