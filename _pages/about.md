@@ -14,6 +14,6 @@ I am Xingjian Zhang, a Ph.D. student in Strategic Management at the [Rotman Scho
 
 You can [download my CV here](http://kenxjzhang.github.io/files/CV_XingjianZhang.pdf)
 
-My first name pronounced as "SHING-Jan".
+My first name is pronounced as "SHING-Jan".
 
 Contact: <kenxj.zhang@rotman.utoronto.ca>
